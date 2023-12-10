@@ -1,5 +1,9 @@
-# Multi-Processing and Multi-Threading Programming
+<h1 align="center">Multi-Processing and Multi-Threading Programming</h1>
+<div align="center">
+  <img src="./imgs/intro-img.jpg" alt="Computational Power" />
+</div>
 
+## Overview
 This repository serves as a collection of solutions for multi-processing and multi-threading programming exercises encountered in the Operating Systems course. Each lab or exercise is organized within its own directory, providing a comprehensive set of solutions for various aspects of concurrent programming.
 
 ## Structure
