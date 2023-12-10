@@ -1,4 +1,4 @@
-# Multi-Processing and Multi-Threading Programming Practices
+# Multi-Processing and Multi-Threading Programming
 
 This repository serves as a collection of solutions for multi-processing and multi-threading programming exercises encountered in the Operating Systems course. Each lab or exercise is organized within its own directory, providing a comprehensive set of solutions for various aspects of concurrent programming.
 
